@@ -10,4 +10,5 @@ LIB_LIBS = \
     -ldynamicMesh \
     -ldynamicFvMesh \
     -ldecompositionMethods \
-    -lfiniteVolume
+    -lfiniteVolume \
+    -lfvMotionSolvers
